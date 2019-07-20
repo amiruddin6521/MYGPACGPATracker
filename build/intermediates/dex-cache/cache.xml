@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\libs\java-json.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\transforms\dex\debug\folders\1000\2\java-json_6cf2d190983c56ad949a43955442ee2361a19031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\libs\apache-httpcomponents-httpclient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpclient_871e9d5a266e8a3ee42d0ab0dc403d8c530e821b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_29fe355ff150be60e65d8b144e32d36fbd9eb3bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a6ded2f64c9d5708d7428bedc5fcc651cae7f64b">
+        <dex dex="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fcb32bd3f39c653aa0e586b1c6951ebc61ffc58b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0656043f8eda74ba6b77c6a0c46e6c3ede8ab91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\User\AndroidStudioProjects\MyGPACGPATracker\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpcore_4dcf719aa2dd4b80647e8253ce2c938e218c7af0\classes.dex" />
+    </item>
+
+</items>
